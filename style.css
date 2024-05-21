@@ -4,7 +4,6 @@ html {
 
 body {
     background-image: linear-gradient(#FC5E55, #FA4083);
-    font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
 .container {
@@ -63,4 +62,8 @@ main {
 
 .herobox2 {
     flex: 1;
+}
+
+h1 {
+    font-size: 60px;
 }
