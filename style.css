@@ -5,6 +5,8 @@ html {
 body {
     background-image: linear-gradient(#FC5E55, #FA4083);
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.125rem;
 }
 .container {
     width: 1024px;
@@ -65,5 +67,11 @@ main {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 3.25rem;
+    margin-bottom: 0.1rem;
+}
+
+p {
+    line-height: 1.75rem;
+    margin-bottom: 0.5rem;
 }
