@@ -1,9 +1,11 @@
 html {
-
+    background-image: linear-gradient(#FC5E55, #FA4083);
 }
 
 body {
-    background-image: linear-gradient(#FC5E55, #FA4083);
+    background-image: url(images/image-lion-background.png);
+    background-position: top center;
+    background-repeat: no-repeat;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.125rem;
@@ -38,6 +40,11 @@ main {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.main2 {
+    min-height: 300px;
+    padding-top: 50px;
 }
 
 .cards {
